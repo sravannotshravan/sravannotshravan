@@ -1,5 +1,24 @@
-# 💫 About Me:
-# Hi, I'm Sravan 👋<br><br>🎓 Computer Science student passionate about AI, robotics, and software development.<br><br>💻 I enjoy building projects involving Python, computer vision, web development, and automation.<br><br>🚀 Currently exploring machine learning, full-stack development, and open-source technologies.<br><br>📚 Always learning, always building.<br><br>Feel free to check out my repositories and connect with me!<br>
+# 👋 Hi, I'm Sravan
+
+🎓 Computer Science student with a passion for Artificial Intelligence, Robotics, and Software Engineering.
+
+💻 I enjoy building projects in:
+- Python & Computer Vision
+- AI/ML Applications
+- Web Development
+- Automation & Developer Tools
+
+🚀 Currently exploring:
+- Machine Learning & Deep Learning
+- Full-Stack Development
+- Robotics & ROS
+- Open Source Software
+
+📚 I believe the best way to learn is by building, experimenting, and sharing projects.
+
+🔭 Goal: To work at the intersection of AI, robotics, and intelligent software systems.
+
+Feel free to explore my repositories and connect with me!
 
 
 # 💻 Tech Stack:
