@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact# Hi, I'm Sravan 👋<br><br>🎓 Computer Science student passionate about AI, robotics, and software development.<br><br>💻 I enjoy building projects involving Python, computer vision, web development, and automation.<br><br>🚀 Currently exploring machine learning, full-stack development, and open-source technologies.<br><br>📚 Always learning, always building.<br><br>Feel free to check out my repositories and connect with me!<br>
+# Hi, I'm Sravan 👋<br><br>🎓 Computer Science student passionate about AI, robotics, and software development.<br><br>💻 I enjoy building projects involving Python, computer vision, web development, and automation.<br><br>🚀 Currently exploring machine learning, full-stack development, and open-source technologies.<br><br>📚 Always learning, always building.<br><br>Feel free to check out my repositories and connect with me!<br>
 
 
 # 💻 Tech Stack:
